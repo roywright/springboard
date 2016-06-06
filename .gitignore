@@ -5,3 +5,6 @@ data_wrangling_xml/.ipynb_checkpoints/sliderule_dsi_xml_exercise-checkpoint.ipyn
 pre-capstone/.ipynb_checkpoints/NY_City-checkpoint.ipynb
 pre-capstone/DOHMH_New_York_City_Restaurant_Inspection_Results.csv
 *.csv
+capstone/.ipynb_checkpoints/proposal-checkpoint.ipynb
+pre-capstone/boston_data/yelp_academic_dataset_business.json
+*.json
