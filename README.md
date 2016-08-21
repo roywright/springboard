@@ -1,1 +1,1 @@
-Repository for Springboard's [Data Science Intensive course](https://www.springboard.com/workshops/data-science-intensive) (completed August 2016).
+Repository for Springboard's [Data Science Intensive course](https://www.springboard.com/workshops/data-science-intensive) (completed August 2016). The most important materials are in the `capstone` directory.
